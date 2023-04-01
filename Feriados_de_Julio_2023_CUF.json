@@ -1,5 +1,8 @@
-[{"nombre":"Primer Domingo de Julio","comentarios":null,"fecha":"2023-07-02","irrenunciable":"0","tipo":"Domingo"},
+[{"nombre":"Elecciones Consejo Constitucional (Domingo NO JULIO)","comentarios":null,"fecha":"2023-05-07","irrenunciable":"1","tipo":"Elecciones"},
+ {"nombre":"Primer Domingo de Julio","comentarios":null,"fecha":"2023-07-02","irrenunciable":"0","tipo":"Domingo"},
  {"nombre":"Segundo Domingo de Julio","comentarios":null,"fecha":"2023-07-09","irrenunciable":"0","tipo":"Domingo"}, 
  {"nombre":"Dia de la virgen del Carmen (Tercer Domingo de Julio)","comentarios":null,"fecha":"2023-07-16","irrenunciable":"0","tipo":"Religioso"}, 
- {"nombre":"Cuarto Domingo de Julio","comentarios":null,"fecha":"2023-07-23","irrenunciable":"0","tipo":"Domingo"}, 
- {"nombre":"Quinto Domingo de Julio","comentarios":null,"fecha":"2023-07-30","irrenunciable":"0","tipo":"Domingo"}]
+ {"nombre":"Cuarto Domingo de Julio","comentarios":null,"fecha":"2023-07-23","irrenunciable":"0","tipo":"Domingo"},
+ {"nombre":"Sabado de Julio Cumpleaños","comentarios":null,"fecha":"2023-07-29","irrenunciable":"0","tipo":"Cumpleaños Cata"}, 
+ {"nombre":"Quinto Domingo de Julio","comentarios":null,"fecha":"2023-07-30","irrenunciable":"0","tipo":"Domingo"},
+ {"nombre":"Plebiscito ratificatorio","comentarios":null,"fecha":"2023-11-26","irrenunciable":"1","tipo":"Elecciones"}]
